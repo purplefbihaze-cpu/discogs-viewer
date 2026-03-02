@@ -217,6 +217,7 @@ async function loadCollection() {
     $('#loadingArea').innerHTML = '';
     $('#filterRow').style.display = 'flex';
     $('#controlsWrap').style.display = 'block';
+    showInsights();
     renderFiltered();
   } catch (err) {
     $('#loadingArea').innerHTML = `<div class="empty">❌ ${err.message}</div>`;
