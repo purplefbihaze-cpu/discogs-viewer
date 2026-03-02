@@ -2,7 +2,7 @@
 
 **The Discogs app is broken. This actually works.**
 
-🌐 **[Try it now →](https://purplefbihaze-cpu.github.io/discogs-viewer/)**
+🌐 **[Try it now →](https://purpledoubled.github.io/discogs-viewer/)**
 
 ## Why?
 
