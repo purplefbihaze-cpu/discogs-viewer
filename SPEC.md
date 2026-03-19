@@ -24,10 +24,9 @@ Better Discogs collection viewer. Enter username → browse your vinyl/CD collec
 - Pagination handling (API returns 50/page max)
 - Rate limit: 25 req/min without auth
 
-## Monetization
-- Free: basic viewer
-- Premium ($3.99): advanced filters, statistics, value estimation, export
-- OR: Donation model
+## Open Source
+- 100% free, all features included
+- MIT License
 
 ## API Endpoints
 - Collection: `/users/{username}/collection/folders/0/releases?per_page=100&page=N`
